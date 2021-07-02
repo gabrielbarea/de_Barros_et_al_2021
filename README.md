@@ -4,11 +4,9 @@ Script author: Gabriel E. B. de Barros
 
 Git: https://github.com/gabrielbarea
 
-##########################################
+Scripts and data used for statistical analysis and graphic production of the paper.
 
-## Scripts and data used for statistical analysis and graphic production of the paper.
-
-Files description:
+## Files description:
 
 - Script.R: Script in R with the functions that were used in the paper
 
@@ -24,9 +22,7 @@ Files description:
 
 Example of the measurements are in Figure S1 of the Supplementary Material.
 
-##########################################
-
-Paper Information
+## Paper Information
 
 Ichnological aspects of the Aquidauana Formation (Upper Carboniferous, Itararé Group, Brazil): an arthropod-colonized glacial setting
 
