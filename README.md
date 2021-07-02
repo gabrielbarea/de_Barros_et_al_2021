@@ -6,10 +6,10 @@ Scripts and data used for statistical analysis and graphic production of the pap
 
 ## Files description:
 
-- Script.R: Script in R with the functions that were used in the paper
+- Script.R = Script in R with the functions that were used in the paper
 
 
-- data_ichnos_v2.xlsx: Data with modified header for reading in R on six different sheets:
+- data_ichnos_v2.xlsx = Data with modified header for reading in R on six different sheets:
 
   - Data = data used to create the graphs
   - Aggregators = mean, standard deviation, maximum and minimum values
