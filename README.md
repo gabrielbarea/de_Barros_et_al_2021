@@ -26,7 +26,7 @@ Example of the measurements are in Figure S1 of the Supplementary Material.
 
 Ichnological aspects of the Aquidauana Formation (Upper Carboniferous, Itararé Group, Brazil): an arthropod-colonized glacial setting
 
-Gabriel E. B. de Barros 1 2; Bruno Becker-Kerber 3; Daniel Sedorko 4; João H. D. Lima 5; Mírian L. A. F. Pacheco 2 6 *;
+Gabriel E. B. de Barros 1 2; Bruno Becker-Kerber 3; Daniel Sedorko 4; João H. D. Lima 5; Mírian L. A. F. Pacheco 2 6 *
 
 1 Programa de Pós-Graduação em Biologia Comparada, Departamento de Biologia, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP), Universidade de São Paulo (USP), Ribeirão Preto, São Paulo, Brazil. [gbareabarros@usp.br]
 
