@@ -4,7 +4,7 @@ Script author: Gabriel E. B. de Barros
 
 Scripts and data used for statistical analysis and graphic production of the paper.
 
-## Files description:
+## Files description
 
 - Script.R = Script in R with the functions that were used in the paper
 
