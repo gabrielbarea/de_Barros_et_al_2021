@@ -6,20 +6,21 @@ Git: https://github.com/gabrielbarea
 
 ##########################################
 
-Scripts and data used for statistical analysis and graphic production of the paper.
+## Scripts and data used for statistical analysis and graphic production of the paper.
 
 Files description:
 
 - Script.R: Script in R with the functions that were used in the paper
 
+
 - data_ichnos_v2.xlsx: Data with modified header for reading in R on six different sheets:
 
-Data = data used to create the graphs
-Aggregators = mean, standard deviation, maximum and minimum values
-Statistics Part 1 = Shapiro-Wilks, ACR and D'Agostino analysis
-Statistics Part 2 = Mann-Whitney-Wilcoxon
-Legend = legend of the other sheets
-R = data used in the statistical analysis
+- Data = data used to create the graphs
+- Aggregators = mean, standard deviation, maximum and minimum values
+- Statistics Part 1 = Shapiro-Wilks, ACR and D'Agostino analysis
+- Statistics Part 2 = Mann-Whitney-Wilcoxon
+- Legend = legend of the other sheets
+- R = data used in the statistical analysis
 
 Example of the measurements are in Figure S1 of the Supplementary Material.
 
