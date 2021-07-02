@@ -2,8 +2,6 @@
 
 Script author: Gabriel E. B. de Barros
 
-Git: https://github.com/gabrielbarea
-
 Scripts and data used for statistical analysis and graphic production of the paper.
 
 ## Files description:
